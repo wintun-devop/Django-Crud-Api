@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'django_crud_api',
         'USER': 'dbadmin',
         'PASSWORD': 'Abc123Abc123',
-        'HOST': '127.0.0.1',
+        'HOST': '172.18.0.2',
         'PORT': '5432',
     }
 }
