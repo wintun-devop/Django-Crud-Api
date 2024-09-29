@@ -15,3 +15,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#pycatche bytecode to ignore
+__pycache__/
+*.pyc
+/djangocrud/apis/__pycache__/
+/djangocrud/djangocrud/__pycache__/

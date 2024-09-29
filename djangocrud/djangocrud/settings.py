@@ -91,8 +91,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'django_crud_api',
         'USER': 'dbadmin',
-        'PASSWORD': 'Abc123Abc123',
-        'HOST': '172.18.0.2',
+        'PASSWORD': 'Abc123',
+        # 'HOST': '172.18.0.2',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
