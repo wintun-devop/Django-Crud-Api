@@ -19,5 +19,5 @@ yarn-error.log*
 #pycatche bytecode to ignore
 __pycache__/
 *.pyc
-apis/__pycache__/
-djangocrud/__pycache__/
+/djangocrud/apis/__pycache__/
+/djangocrud/djangocrud/__pycache__/
